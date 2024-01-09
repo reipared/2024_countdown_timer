@@ -1,8 +1,8 @@
-# 2024_countdown_timer
+# 2025_countdown_timer
 
 ## Description
 
-This project is a countdown timer for the year 2024. It displays the remaining time in days, hours, minutes, and seconds.
+This project is a countdown timer for the year 2025. It displays the remaining time in days, hours, minutes, and seconds.
 
 ## Usage
 
